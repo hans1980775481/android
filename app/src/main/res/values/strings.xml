@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <color name="color1">#0f0</color>
+    <string name="action_settings">setting</string>
+</resources>
